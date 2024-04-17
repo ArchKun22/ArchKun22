@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ArchKun22
+- 👀 I’m interested in coding, learning a bit of everthing and some stuff like that
+- 🌱 I’m currently learning coding in Java
